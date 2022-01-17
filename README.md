@@ -1,18 +1,6 @@
 # Blockchain for Software Engineers
-Inspired by [Google Interview University](https://www.google.com), [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [The Authoritative Guide to Blockchain Development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
 
 "The blockchain symbolizes a shift in power from the centers to the edges of the networks." - William Mougayar
-
-## What is it?
-A collection of resources that I've gathered over the past couple years while advancing in the blockchain world. Hope this can help others.
-
-This list is by no means exhaustive and is centered on the end goal of building production quality smart contracts and DApps. My journey has been focused on Ethereum but I would love this list to expand and not just be limited to one Blockchain. All contributions welcome!
-
-## About me
-Security researcher and engineer
-
-## Goal
-Create and curate a list of resources for aspiring and seasoned blockchain engineers.
 
 
 ## Table of Contents
@@ -46,15 +34,8 @@ Create and curate a list of resources for aspiring and seasoned blockchain engin
 - [Getting a Job](#getting-a-job)
 - [Job Boards](#job-boards)
 
-
-## Covering the Material
-Over the past two years, I found it useful to pick a subject from the list below, read it thoroughly, take notes, and implement on a blockchain running locally. I tend to prefer a top-down, hands on approach to learning. I found it extremely important to build and push my understanding further daily.
-
-
 ## How to use it
 Everything below is a prioritized outline and you should work from the top to the bottom.
-
-- [x] **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
 # Background
 Blockchain technology is a multi-disciplinary field built atop cryptography, economics, and computer science. The background section includes some requisite fundamentals in these fields that will ensure you have solid footing before diving deeper into the blockchain specifics since many of the features that exist today are results of years and years of previous research.
